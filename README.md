@@ -3,7 +3,7 @@
   <h1 align="center">SVGA Documentation</h1>
 </p>
 
-SVGA 是一种全新的动画格式，同时兼容 iOS / Android / Web 多个平台，提供高性能动画播放体验。
+SVGA 是一种全新的动画格式，同时兼容 iOS / Android / Flutter / Web 多个平台，提供高性能动画播放体验。
 
 这里是 [SVGA 资料](https://github.com/svga/docs)的 GitHub 仓库。
 
@@ -13,8 +13,8 @@ SVGA 是一种全新的动画格式，同时兼容 iOS / Android / Web 多个平
 2. [Player]()
 3. [Converter]()
 4. [文档]()
-5. [反馈]()
-6. [贡献]()
+5. [贡献]()
+6. [反馈]()
 
 ## 协议
 1. [1.x 格式规范](https://github.com/svga/SVGA-Format/blob/master/JSON/readme.md)
@@ -36,7 +36,7 @@ SVGA 是一种全新的动画格式，同时兼容 iOS / Android / Web 多个平
 2. [设计使用指南](https://github.com/svga/docs/wiki/SVGA-%E8%AE%BE%E8%AE%A1%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
 3. [特征支持表](https://docs.qq.com/sheet/DT3Z2ektWRnZPaFJM?tab=nrwudd&c=A1A0A0)
 
-## 反馈
-
-
 ## 贡献
+<a href="https://github.com/PonyCui"><img src="https://avatars0.githubusercontent.com/u/5013664?s=180&v=4" width="60" alt="PonyCui"></a> <a href="https://github.com/errnull"><img src="https://avatars0.githubusercontent.com/u/28481578?s=180&v=4" width="60" alt="errnull"></a> <a href="https://github.com/lijialiang"><img src="https://avatars0.githubusercontent.com/u/12247242?s=180&v=4" width="60" alt="lijialiang"></a> <a href="https://github.com/lixinliang"><img src="https://avatars3.githubusercontent.com/u/9375027?s=180&v=4" width="60" alt="lixinliang"></a> <a href="https://github.com/TalkingJourney"><img src="https://avatars0.githubusercontent.com/u/14047661?s=180&v=4" width="60" alt="TalkingJourney"></a> <a href="https://github.com/andyliumstar"><img src="https://avatars0.githubusercontent.com/u/17897669?s=180&v=4" width="60" alt="andyliumstar"></a> <a href="https://github.com/xxjy"><img src="https://avatars0.githubusercontent.com/u/8044264?s=180&v=4" width="60" alt="xxjy"></a> <a href="https://github.com/monkeywithacupcake"><img src="https://avatars0.githubusercontent.com/u/7316730?s=180&v=4" width="60" alt="monkeywithacupcake"></a>  <a href="https://github.com/SmallBlackCat"><img src="https://avatars0.githubusercontent.com/u/5243343?s=180&v=4" width="60" alt="SmallBlackCat"></a> <a href="https://github.com/Labmem003"><img src="https://avatars0.githubusercontent.com/u/4987045?s=180&v=4" width="60" alt="Labmem003"></a> <a href="https://github.com/zhaofinger"><img src="https://avatars0.githubusercontent.com/u/31442077?s=180&v=4" width="60" alt="zhaofinger"></a> <a href="https://github.com/zeayal"><img src="https://avatars1.githubusercontent.com/u/28499365?s=180&v=4" width="60" alt="zeayal"></a> <a href="https://github.com/F3n67u"><img src="https://avatars3.githubusercontent.com/u/12343178?s=180&v=4" width="60" alt="F3n67u"></a> <a href="https://github.com/yrom"><img src="https://avatars2.githubusercontent.com/u/2888674?s=180&v=4" width="60" alt="yrom"></a> <a href="https://github.com/HustLion"><img src="https://avatars0.githubusercontent.com/u/12825646?s=180&v=4" width="60" alt="HustLion"></a> <a href="https://github.com/LancerComet"><img src="https://avatars2.githubusercontent.com/u/10321350?s=180&v=4" width="60" alt="LancerComet"></a> <a href="https://github.com/lloyar"><img src="https://avatars2.githubusercontent.com/u/22740114?s=180&v=4" width="60" alt="lloyar"></a>
+
+## 反馈
