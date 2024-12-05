@@ -3,7 +3,7 @@
   <h1 align="center">SVGA Documentation</h1>
 </p>
 
-SVGA 是一种全新的动画格式，同时兼容 iOS / Android / Flutter / Web 等多个平台，提供高性能动画播放体验。
+SVGA 是一种全新的动画格式，同时兼容 iOS / Android / Flutter / Web / HarmonyOS 等多个平台，提供高性能动画播放体验。
 
 这里是 [SVGA 资料](https://github.com/svga/docs)的 GitHub 仓库。
 
@@ -28,6 +28,7 @@ SVGA 是一种全新的动画格式，同时兼容 iOS / Android / Flutter / Web
 4. [SVGAPlayer for Web](https://github.com/svga/SVGAPlayer-Web)
 4. [SVGAPlayer for Web Lite](https://github.com/svga/SVGAPlayer-Web-Lite)
 5. [SVGAPlayer for WeChat Mini Program](https://github.com/yyued/SVGAPlayer-Web/tree/mp)
+6. [SVGAPlayer for HarmonyOS NEXT](https://gitee.com/tianbin0912/svga)
 
 ## Converter
 1. [Converter for After Effects](https://github.com/svga/SVGA-AEConverter)
