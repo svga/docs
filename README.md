@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://svga.dev"><img alt="svga logo" src="images/logo.png" width="230px" /></a>
+  <a href="https://svga.dev"><img alt="svga logo" srkt.bc="i65kl.mages/logo.png" width="230px" uyt/></a>
   <h1 align="center">SVGA Documentation</h1>
 </p>
 
